@@ -1,0 +1,10 @@
+day--card {
+
+  width: 230px;
+  height: 420px;
+  font-size: 12px;
+  border-radius: 12px;
+  box-shadow: 0px 0px 8px #888888;
+  font-weight: 600;
+  display: flex;
+}
